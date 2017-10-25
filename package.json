@@ -1,0 +1,30 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piekario13/js_lesson1.git"
+  },
+  "keywords": [],
+  "author": "jpiekarski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piekario13/js_lesson1/issues"
+  },
+  "homepage": "https://github.com/piekario13/js_lesson1#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "description": ""
+}
